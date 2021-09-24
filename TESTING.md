@@ -16,3 +16,13 @@
      - [Lighthouse Auditing](#Lighthouse-Auditing)
 4. [User Testing](#User-Testing)
 
+***
+
+## Testing User Stories
+
+### New and potential Fan goals:
+
+1. I want to easily navigate the website finding relevant content. 
+- Navigation bar is defined and easy to navigate for users.
+- Logo image on all pages makes it easy to let users go back to the home page. 
+- Footer uses identifide icons easy for users to go to the appropiated external sites. 
